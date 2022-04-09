@@ -1,0 +1,5 @@
+p = [1, 1, 2, 2, 2, 8]
+n = list(map(int, input().split()))
+
+for i i range(len(p)) :
+    print(p[i] - n[i], end=" ")
